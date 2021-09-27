@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Willington</h1>
+<h1 align="center">Hola 👋 soy Willington</h1>
 <h3 align="center">Un joven apasionado por la tecnología y con ganas de programar</h3>
 
 - 🔭 Estoy estudiando en [la universidad ean](https://universidadean.edu.co/)
